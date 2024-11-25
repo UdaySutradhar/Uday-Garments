@@ -71,16 +71,7 @@ Uday Garments is a full-stack e-commerce web application that provides a seamles
 ## Usage
 1. Open `http://localhost:3000` in your browser for the frontend interface.
 2. Backend API will run on `http://localhost:5000`.
-
-## Deployment
-The application can be deployed using platforms like Heroku (backend) and Vercel/Netlify (frontend). Update `.env` variables and configure deployment settings accordingly.
+   
 
 ## Contributing
 Feel free to fork this repository, raise issues, and submit pull requests. Contributions are welcome to enhance features and functionality.
-
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
-
----
-
-Let me know if you need additional sections or modifications!
